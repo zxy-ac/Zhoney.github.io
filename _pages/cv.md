@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MPhil in Computer Science and Technology, Jilin University, Sep. 2023-Jun. 2026(Expected)
+* B.S. of Science in Information Security with Minor in Business Administration, Nanchang University Sep. 2019- Jun. 2023
+* GPA: 3.44/4.0 (Major),Weighted Average Score: 85/100, Overall Ranking (6/189; 3%)
+
 
 Work experience
 ======
